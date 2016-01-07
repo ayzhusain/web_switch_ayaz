@@ -46,6 +46,14 @@ nav li.search-form {
 	margin-right: 1em;
 }
 
+.main{
+text-align: center;
+width: 90%;
+}
+.main_body{
+display: inline-block;
+}
+
 /* -------------------------------------------------- 
    footer  styles
 -----------------------------------------------------*/
